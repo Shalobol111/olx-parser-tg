@@ -7,8 +7,7 @@
 
 **A powerful Telegram bot for parsing OLX.ua listings** with Cloudflare bypass and user-friendly interface.
 
-![Main menu screenshot](docs/screenshot_main.png)
-
+<img width="779" height="1075" alt="image" src="https://github.com/user-attachments/assets/aceb0d24-6e52-4094-acef-1e47bc67b061" />
 ---
 
 ## ✨ Key Features
