@@ -46,7 +46,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/olx-parser-bot.git
+git clone https://github.com/Shalobol111/olx-parser-bot.git
 cd olx-parser-bot
 ```
 
